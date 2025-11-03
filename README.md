@@ -15,7 +15,7 @@ This project presents an Excel-based dashboard analyzing daily coffee shop sales
 # Data Sourcing
 
 <p align="justify">
-The dataset was obtained from **Kaggle** (https://www.kaggle.com/datasets/reignrichard/coffee-store-sales/data) titled **Coffee Shop Sales**. It contains daily transaction records including timestamps, coffee types, payment methods, and revenue per sale. The data is used solely for **educational and analytical practice purposes**.
+The dataset was obtained from Kaggle (https://www.kaggle.com/datasets/reignrichard/coffee-store-sales/data) titled Coffee Shop Sales. It contains daily transaction records including timestamps, coffee types, payment methods, and revenue per sale. The data is used solely for educational and analytical practice purposes.
 </p>
 
 # Closing
