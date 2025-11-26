@@ -16,13 +16,15 @@ Through this project, I transformed raw data into a clean, interactive Excel das
 The dataset comes from Kaggle:  
 <a href="https://www.kaggle.com/datasets/reignrichard/coffee-store-sales/data">Coffee Shop Sales</a>
 </p>
+<p align="justify">
 It includes:
+</p>
 - ⏱️ Sales timestamps  
 - ☕ Coffee & product types  
 - 💰 Revenue per sale  
 - 💳 Payment method details  
 <p align="justify">
-This dataset is used **strictly for educational and analytical purposes**.
+This dataset is used <b>strictly for educational and analytical purposes</b>.
 </p>
 
 # 🚀 What This Project Demonstrates
