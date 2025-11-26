@@ -19,10 +19,12 @@ The dataset comes from Kaggle:
 <p align="justify">
 It includes:
 </p>
+
 - ⏱️ Sales timestamps  
 - ☕ Coffee & product types  
 - 💰 Revenue per sale  
-- 💳 Payment method details  
+- 💳 Payment method details
+  
 <p align="justify">
 This dataset is used <b>strictly for educational and analytical purposes</b>.
 </p>
