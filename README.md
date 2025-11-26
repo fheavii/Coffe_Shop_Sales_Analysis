@@ -5,7 +5,7 @@ Through this project, I transformed raw data into a clean, interactive Excel das
 </p>
 
 # ✨ Project Highlights
-- 📊 <b>Excel Dashboard Design</b> — Interactive charts (line, bar, donut)
+- 📊 <b>Excel Dashboard Design</b> — Interactive charts 
 - 🧹 <b>Data Cleaning & Preparation</b> — Structuring raw transaction data
 - 🔍 <b>Pivot Table Analysis</b> — KPIs, trends, and aggregated sales metrics
 - 🎨 <b>Visual Storytelling</b> — Turning numbers into meaningful insights
@@ -30,10 +30,10 @@ This dataset is used <b>strictly for educational and analytical purposes</b>.
 </p>
 
 # 🚀 What This Project Demonstrates
-- Ability to build a <b>professional-grade Excel dashboard</b>
+- Ability to build a <b>professional grade Excel dashboard</b>
 - Strong understanding of <b>data analytics workflow</b>
 - Skills in <b>cleaning, transforming, and visualizing</b> transactional data
-- Emphasis on <b>design, readability, and KPI-focused insight</b>
+- Emphasis on <b>design, readability, and KPI focused insight</b>
 
 # 🎯 Closing Notes
 <p align="justify">
